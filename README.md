@@ -1,4 +1,4 @@
-This repository was made from a youtube tutorial: 
+This repository was made following a youtube tutorial: 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!--  https://ytcards.demolab.com/?id=<videoID>&title=<videoTitle>&lang=en&timestamp=<video publish data in unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duraction in seconds> "<video title>" -->
 [![Build an Expense Tracker | React Hooks & Context API](https://ytcards.demolab.com/?id=XuFDcZABiDQ&title=Build+an+Expense+Tracker+|+React+Hooks+&+Context+API&lang=en&timestamp=1582347600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2980 "Build an Expense Tracker | React Hooks & Context API")](https://youtu.be/XuFDcZABiDQ?si=M8JV-6VSObf9dOtE)
